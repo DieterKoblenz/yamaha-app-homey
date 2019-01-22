@@ -116,15 +116,15 @@
 				"title": { "en": "V-AUX"
 			}
 			},
-			{	"id": "SERVER",
+			{	"id": "server",
 				"title": { "en": "SERVER"
 			}
 			},
-			{	"id": "NET RADIO",
+			{	"id": "net_radio",
 				"title": { "en": "NET RADIO"
 			}
 			},
-			{	"id": "USB",
+			{	"id": "usb",
 				"title": { "en": "USB"
 			}
 			},
@@ -134,6 +134,9 @@
 			},
 			{	"id": "AirPlay",
 				"title": { "en": "AirPlay"
+			},
+			{	"id": "phono",
+				"title": { "en": "Phono"
 			}
 			}
 			]
